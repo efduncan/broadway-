@@ -15,9 +15,11 @@ h3{
   font-size: 21px;
   color: grey;
 }
+footer{
+  text-align: right;
+  color: grey;
+}
 body{
   background-color: black;
   text-align: center;
-
-
 }
